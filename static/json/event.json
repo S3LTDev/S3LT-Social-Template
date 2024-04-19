@@ -1,0 +1,71 @@
+[{
+        "id": "0",
+        "platform": "Steam",
+        "game": "Dota 2",
+        "starttime": "1651838400",
+        "host": {
+            "name": "NotReeceHarris",
+            "avatar": "https://cdn.discordapp.com/avatars/421717515614289950/d47ef5f518cf81331375881a5002ef5c.webp"
+        }
+    },
+    {
+        "id": "1",
+        "platform": "Cross Play",
+        "game": "Fortnite",
+        "starttime": "1654516800",
+        "host": {
+            "name": "NotReeceHarris",
+            "avatar": "https://cdn.discordapp.com/avatars/421717515614289950/d47ef5f518cf81331375881a5002ef5c.webp"
+        }
+    },
+    {
+        "id": "2",
+        "platform": "Mobile",
+        "game": "Minecraft",
+        "starttime": "1651838400",
+        "host": {
+            "name": "NotReeceHarris",
+            "avatar": "https://cdn.discordapp.com/avatars/421717515614289950/d47ef5f518cf81331375881a5002ef5c.webp"
+        }
+    },
+    {
+        "id": "3",
+        "platform": "Xbox X",
+        "game": "Destiny 2",
+        "starttime": "1651838400",
+        "host": {
+            "name": "NotReeceHarris",
+            "avatar": "https://cdn.discordapp.com/avatars/421717515614289950/d47ef5f518cf81331375881a5002ef5c.webp"
+        }
+    },
+    {
+        "id": "4",
+        "platform": "Xbox 1",
+        "game": "Black Ops 3",
+        "starttime": "1654516800",
+        "host": {
+            "name": "NotReeceHarris",
+            "avatar": "https://cdn.discordapp.com/avatars/421717515614289950/d47ef5f518cf81331375881a5002ef5c.webp"
+        }
+    },
+    {
+        "id": "5",
+        "platform": "Playstation 4",
+        "game": "Black Ops 4",
+        "starttime": "1654516800",
+        "host": {
+            "name": "Vice",
+            "avatar": "https://cdn.discordapp.com/avatars/697163247475884123/7271f1de9c58d686304a871810247f81.webp"
+        }
+    },
+    {
+        "id": "6",
+        "platform": "Playstation 4",
+        "game": "Black Ops 4",
+        "starttime": "1654516800",
+        "host": {
+            "name": "Vice",
+            "avatar": "https://cdn.discordapp.com/avatars/697163247475884123/7271f1de9c58d686304a871810247f81.webp"
+        }
+    }
+]

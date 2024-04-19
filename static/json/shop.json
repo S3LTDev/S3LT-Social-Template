@@ -1,0 +1,62 @@
+[{
+        "id": "0",
+        "name": "Wooden Sword",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fchrisl21%2Fminecraft%2F512%2FWooden-Sword-icon.png&f=1&nofb=1",
+        "rarity": "Common",
+        "price": "100"
+    },
+    {
+        "id": "1",
+        "name": "Wooden Shield",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fhelmet-heroes%2Fimages%2F2%2F20%2FWood_Metal_Shield.png%2Frevision%2Flatest%3Fcb%3D20130711113240&f=1&nofb=1",
+        "rarity": "Uncommon",
+        "price": "250"
+    },
+    {
+        "id": "2",
+        "name": "Metal Helmet",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette1.wikia.nocookie.net%2Fhelmet-heroes%2Fimages%2Fe%2Fe0%2FKnight_Helmet.png%2Frevision%2Flatest%3Fcb%3D20131008030002&f=1&nofb=1",
+        "rarity": "Rare",
+        "price": "1500"
+    }, {
+        "id": "0",
+        "name": "Wooden Sword",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fchrisl21%2Fminecraft%2F512%2FWooden-Sword-icon.png&f=1&nofb=1",
+        "rarity": "Common",
+        "price": "100"
+    },
+    {
+        "id": "1",
+        "name": "Wooden Shield",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fhelmet-heroes%2Fimages%2F2%2F20%2FWood_Metal_Shield.png%2Frevision%2Flatest%3Fcb%3D20130711113240&f=1&nofb=1",
+        "rarity": "Uncommon",
+        "price": "250"
+    },
+    {
+        "id": "2",
+        "name": "Metal Helmet",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette1.wikia.nocookie.net%2Fhelmet-heroes%2Fimages%2Fe%2Fe0%2FKnight_Helmet.png%2Frevision%2Flatest%3Fcb%3D20131008030002&f=1&nofb=1",
+        "rarity": "Rare",
+        "price": "1500"
+    }, {
+        "id": "0",
+        "name": "Wooden Sword",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Ficons.iconarchive.com%2Ficons%2Fchrisl21%2Fminecraft%2F512%2FWooden-Sword-icon.png&f=1&nofb=1",
+        "rarity": "Common",
+        "price": "100"
+    },
+    {
+        "id": "1",
+        "name": "Wooden Shield",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fhelmet-heroes%2Fimages%2F2%2F20%2FWood_Metal_Shield.png%2Frevision%2Flatest%3Fcb%3D20130711113240&f=1&nofb=1",
+        "rarity": "Uncommon",
+        "price": "250"
+    },
+    {
+        "id": "2",
+        "name": "Metal Helmet",
+        "asset": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette1.wikia.nocookie.net%2Fhelmet-heroes%2Fimages%2Fe%2Fe0%2FKnight_Helmet.png%2Frevision%2Flatest%3Fcb%3D20131008030002&f=1&nofb=1",
+        "rarity": "Rare",
+        "price": "1500"
+    }
+]
