@@ -1,9 +1,12 @@
--- phpMyAdmin SQL Dump
--- version 4.9.7
--- https://www.phpmyadmin.net/
--- Host: localhost:3306
--- Server version: 5.7.38
--- PHP Version: 7.4.29
+--  @@@@@@ @@@@@@  @@@      @@@@@@@      @@@@@@@  @@@@@@@@ @@@  @@@
+-- !@@         @@! @@!        @@!        @@!  @@@ @@!      @@!  @@@
+--  !@@!!   @!!!:  @!!        @!!        @!@  !@! @!!!:!   @!@  !@!
+--     !:!     !!: !!:        !!:        !!:  !!! !!:       !: .:! 
+-- ::.: :  ::: ::  : ::.: :    :         :: :  :  : :: :::    ::   
+                                                                                                                              
+-- link  https://github.com/S3LTDev/S3LT-Social-Template
+-- author  max2tz https://github.com/S3LT
+-- license  GPL-3.0 License 
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
