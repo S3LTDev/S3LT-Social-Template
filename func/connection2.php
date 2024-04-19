@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$user = "root";
+$host = "";
+$user = "";
 $pass = "";
-$db_name = "vixxydb";
+$db_name = "";
 $con = new mysqli($host, $user, $pass, $db_name);
 function formatDate($date){
 	return date('g:i a', strtotime($date));
