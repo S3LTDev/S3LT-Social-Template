@@ -1,9 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.9.7
 -- https://www.phpmyadmin.net/
---
 -- Host: localhost:3306
--- Generation Time: Jun 05, 2022 at 03:36 PM
 -- Server version: 5.7.38
 -- PHP Version: 7.4.29
 
@@ -19,7 +17,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Database: `vixxyapp_vixxydb`
+-- Database: `databaseapp_databasedb`
 --
 
 -- --------------------------------------------------------
@@ -42,7 +40,7 @@ INSERT INTO `a_rarity` (`id`, `rarity`, `del_flag`) VALUES
 (1, 'Special', 0),
 (2, 'Basic', 0),
 (3, 'Advanced', 0),
-(4, 'Vixxy Launch Series', 0);
+(4, 'database Launch Series', 0);
 
 -- --------------------------------------------------------
 
@@ -62,9 +60,9 @@ CREATE TABLE `a_subscriptions` (
 
 INSERT INTO `a_subscriptions` (`id`, `name`, `del_flat`) VALUES
 (1, 'free', 0),
-(2, 'vixxy promo', 0),
-(3, 'vixxy+', 0),
-(4, 'vixxy deluxe', 0);
+(2, 'database promo', 0),
+(3, 'database+', 0),
+(4, 'database deluxe', 0);
 
 -- --------------------------------------------------------
 
@@ -85,8 +83,8 @@ CREATE TABLE `badge` (
 INSERT INTO `badge` (`id`, `user_id`, `badge`) VALUES
 (1, '746453649974100103', 'Verified'),
 (2, '746453649974100103', 'Moderator'),
-(3, '746453649974100103', 'Vixxy Deluxe'),
-(4, '746453649974100103', 'Vixxy+'),
+(3, '746453649974100103', 'database Deluxe'),
+(4, '746453649974100103', 'database+'),
 (14, '891773010871218226', 'Beta Tester'),
 (15, '891773010871218226', 'Beta Tester'),
 (16, '891773010871218226', 'Beta Tester'),
@@ -156,10 +154,10 @@ CREATE TABLE `shop` (
 --
 
 INSERT INTO `shop` (`id`, `name`, `asset`, `rarity_id`, `price`) VALUES
-(1, 'Hazardous Material', 'https://cdn.vixxy.app/img/widgets/png/Masked.png?raw=true', 4, 750),
-(3, 'Time To Shine', 'https://cdn.vixxy.app/img/widgets/png/Active%20Item.png?raw=true', 4, 750),
-(4, 'Listen Along', 'https://cdn.vixxy.app/img/widgets/png/Listening%20Along.png?raw=true', 4, 750),
-(5, 'Take Off', 'https://cdn.vixxy.app/img/widgets/png/Rocket%20Item.png', 3, 250);
+(1, 'Hazardous Material', 'https://cdn.database.app/img/widgets/png/Masked.png?raw=true', 4, 750),
+(3, 'Time To Shine', 'https://cdn.database.app/img/widgets/png/Active%20Item.png?raw=true', 4, 750),
+(4, 'Listen Along', 'https://cdn.database.app/img/widgets/png/Listening%20Along.png?raw=true', 4, 750),
+(5, 'Take Off', 'https://cdn.database.app/img/widgets/png/Rocket%20Item.png', 3, 250);
 
 -- --------------------------------------------------------
 
@@ -186,11 +184,6 @@ CREATE TABLE `user_storage` (
 --
 -- Dumping data for table `user_storage`
 --
-
-INSERT INTO `user_storage` (`user_id`, `user_name`, `user_avatar`, `access_token`, `session_id`, `user_gems`, `user_joined_timestamp`, `user_activity`, `admin`, `user_suspend`, `display_name`, `update_display_timestamp`, `subscription_id`) VALUES
-('733875585499136022', 'fun54658#5327', '4985c04f5520012cf12b4c386d84e415', 'O3IZQuGTpkSy8PORfRYvEi4hiOTV1p', '05982d85115176ec300b0fc427f913b7', 0, '2022-06-05 15:22:07', '2022-06-05 15:32:15', 0, 0, 'fun54658', '2022-06-05 15:23:39', 1),
-('746453649974100103', 'MaxxD99#3396', '65427b0a2c4b22a572bdb064690a9e04', 'yS2Z0wUUFfKKTU36d9vID2AKEMVRIn', '52760bc73e47ab6134e8fa5f8b3ef911', 68999995650, '2022-04-26 09:39:08', '2022-06-05 15:30:57', 1, 0, 'MaxxIsCool', '2022-05-19 16:04:50', 1),
-('784589656334794785', 'DJKeiran#6648', 'cb548d28d671acd345099a7abc4b77b8', 'eNjSxSXAc3xdTLFCAvZHWPFTDAUyWc', '175dr8jv4k669ic3uin45cb9qd', 69, NULL, '2022-06-05 15:29:43', 1, 0, 'DJkeiran', NULL, 1);
 
 --
 -- Indexes for dumped tables
