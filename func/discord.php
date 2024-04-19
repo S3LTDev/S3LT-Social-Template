@@ -1,4 +1,15 @@
 <?php
+/*  
+@@@@@@ @@@@@@  @@@      @@@@@@@      @@@@@@@  @@@@@@@@ @@@  @@@
+@@         @@! @@!        @@!        @@!  @@@ @@!      @@!  @@@
+!@@!!   @!!!:  @!!        @!!        @!@  !@! @!!!:!   @!@  !@!
+   !:!     !!: !!:        !!:        !!:  !!! !!:       !: .:! 
+::.: :  ::: ::  : ::.: :    :         :: :  :  : :: :::    ::   
+
+link  https://github.com/S3LTDev/S3LT-Social-Template
+author  max2tz https://github.com/S3LT
+license  GPL-3.0 License
+*/
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 ini_set('max_execution_time', 300); //300 seconds = 5 minutes. In case if your CURL is slow and is loading too much (Can be IPv6 problem)
