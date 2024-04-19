@@ -1,4 +1,15 @@
 <?php
+/*  
+@@@@@@ @@@@@@  @@@      @@@@@@@      @@@@@@@  @@@@@@@@ @@@  @@@
+@@         @@! @@!        @@!        @@!  @@@ @@!      @@!  @@@
+!@@!!   @!!!:  @!!        @!!        @!@  !@! @!!!:!   @!@  !@!
+   !:!     !!: !!:        !!:        !!:  !!! !!:       !: .:! 
+::.: :  ::: ::  : ::.: :    :         :: :  :  : :: :::    ::   
+
+link  https://github.com/S3LTDev/S3LT-Social-Template
+author  max2tz https://github.com/S3LT
+license  GPL-3.0 License
+*/
 	include 'connection2.php';
 	$query = "SELECT * FROM chat ORDER BY id DESC";
 	$run = $con -> query(image.png$query);
