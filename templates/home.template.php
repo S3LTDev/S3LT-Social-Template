@@ -1,4 +1,15 @@
 <?php ob_start(); ?>
+/*  
+@@@@@@ @@@@@@  @@@      @@@@@@@      @@@@@@@  @@@@@@@@ @@@  @@@
+@@         @@! @@!        @@!        @@!  @@@ @@!      @@!  @@@
+!@@!!   @!!!:  @!!        @!!        @!@  !@! @!!!:!   @!@  !@!
+   !:!     !!: !!:        !!:        !!:  !!! !!:       !: .:! 
+::.: :  ::: ::  : ::.: :    :         :: :  :  : :: :::    ::   
+
+link  https://github.com/S3LTDev/S3LT-Social-Template
+author  max2tz https://github.com/S3LT
+license  GPL-3.0 License
+*/
 <div class="project-boxes jsListView dontresize">
         <a href="">
             <div class="project-box-wrapper">
